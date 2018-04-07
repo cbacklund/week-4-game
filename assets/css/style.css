@@ -1,0 +1,28 @@
+html {
+    font-family: "Corbel";
+}
+
+h1 {
+    font-size: 200%;
+}
+
+h2 {
+    font-size: 150%;
+}
+
+.pics {
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+    margin: 5px;
+    width: 200px;
+    height: 150px;
+}
+
+#magicBtn {
+    display: block;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-family: "Corbel";
+}
